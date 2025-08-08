@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-sergiovelez588@gmail.com-red?logo=gmail&style=for-the-badge" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/sergio-b935a4327/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-yourname-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-sergio-b935a4327-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
 
