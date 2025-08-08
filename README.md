@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/GitHub-Sjvr21-black?logo=github&style=for-the-badge" alt="GitHub" />
   </a>
   <a href="mailto:your.sergiovelez588@gmail.com">
-    <img src="https://img.shields.io/badge/Email-your.email@example.com-red?logo=gmail&style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-sergiovelez588@gmail.com-red?logo=gmail&style=for-the-badge" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/sergio-b935a4327/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-yourname-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
