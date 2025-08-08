@@ -5,10 +5,10 @@
   <a href="https://github.com/Sjvr21" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Sjvr21-black?logo=github&style=for-the-badge" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.sergiovelez588@gmail.com">
     <img src="https://img.shields.io/badge/Email-your.email@example.com-red?logo=gmail&style=for-the-badge" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/yourname/" target="_blank">
+  <a href="https://www.linkedin.com/in/sergio-b935a4327/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-yourname-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
@@ -20,11 +20,10 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **Jav
 
 ---
 
-## 💼 What I'm Working On
+## 💼 My Projects
 
 - 🔧 **Hospital/Clinic Management System** – A full-stack Java + MySQL application for managing patient data, appointments, and more.
 - 📱 **Contact Manager App** – A React Native app using SQLite for local data storage.
-- 🧠 Exploring **cybersecurity**, **encryption**, and **image processing** with math.
 
 ---
 
