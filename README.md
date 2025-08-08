@@ -1,3 +1,6 @@
+# 👋 Hi there! I'm Sergio
+
+
 <p align="center">
   <a href="https://github.com/Sjvr21" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Sjvr21-black?logo=github&style=for-the-badge" alt="GitHub" />
@@ -12,7 +15,6 @@
 
 ---
 
-# 👋 Hi there! I'm Sergio
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in **Java**, **C++**, **React Native**, and **database-driven applications**. I enjoy solving problems, building practical software, and constantly learning new technologies.
 
