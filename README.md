@@ -4,14 +4,6 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **Jav
 
 ---
 
-## 💼 What I'm Working On
-
-- 🔧 **Hospital/Clinic Management System** – A full-stack Java + MySQL application for managing patient data, appointments, and more.
-- 📱 **Contact Manager App** – A React Native app using SQLite for local data storage.
-- 🧠 Exploring **cybersecurity**, **encryption**, and **image processing** with math.
-
----
-
 ## 🧰 Tech Stack
 
 - 💻 Java, C++, Python
@@ -23,15 +15,13 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **Jav
 
 ## 📈 GitHub Stats
 
-![Sjvr21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sjvr21&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sjvr21&layout=compact)
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌍 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname) *(Update this link)*
-- 📬 Email: `your.email@example.com`
+- 🌍 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/sergio-b935a4327) 
+- 📬 Email: `sergiovelez588@gmail.com`
 
-Thanks for visiting!
 
