@@ -1,6 +1,28 @@
-# 👋 Hi there! I'm Sergio (@Sjvr21)
+<p align="center">
+  <a href="https://github.com/Sjvr21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Sjvr21-black?logo=github&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-your.email@example.com-red?logo=gmail&style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourname/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-yourname-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+# 👋 Hi there! I'm Sergio
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in **Java**, **C++**, **React Native**, and **database-driven applications**. I enjoy solving problems, building practical software, and constantly learning new technologies.
+
+---
+
+## 💼 What I'm Working On
+
+- 🔧 **Hospital/Clinic Management System** – A full-stack Java + MySQL application for managing patient data, appointments, and more.
+- 📱 **Contact Manager App** – A React Native app using SQLite for local data storage.
+- 🧠 Exploring **cybersecurity**, **encryption**, and **image processing** with math.
 
 ---
 
@@ -15,13 +37,14 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **Jav
 
 ## 📈 GitHub Stats
 
+![Sjvr21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sjvr21&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sjvr21&layout=compact)
 
 ---
 
-## 📫 Let's Connect
+## 📬 Let's Connect
 
-- 🌍 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/sergio-b935a4327) 
-- 📬 Email: `sergiovelez588@gmail.com`
+Feel free to reach out via email or connect with me on LinkedIn. I'm always open to collaboration and new opportunities!
 
+---
 
