@@ -20,12 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **Jav
 
 ---
 
-## 💼 My Projects
 
-- 🔧 **Hospital/Clinic Management System** – A full-stack Java + MySQL application for managing patient data, appointments, and more.
-- 📱 **Contact Manager App** – A React Native app using SQLite for local data storage.
-
----
 
 ## 🧰 Tech Stack
 
