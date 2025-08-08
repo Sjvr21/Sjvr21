@@ -38,7 +38,6 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **Jav
 
 ## 📈 GitHub Stats
 
-![Sjvr21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sjvr21&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sjvr21&layout=compact)
 
 ---
